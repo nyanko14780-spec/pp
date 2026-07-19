@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">냥코 펫</string>
+    <string name="grant_permission">오버레이 권한 허용하기</string>
+    <string name="start_pet">펫 시작하기</string>
+    <string name="stop_pet">펫 끄기</string>
+    <string name="permission_needed">다른 앱 위에 표시 권한이 필요해요.\n버튼을 눌러 설정에서 허용해주세요.</string>
+</resources>
